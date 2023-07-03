@@ -1,4 +1,4 @@
-![Gerlâne's GitHub stats](https://stats-sooty-two.vercel.app/api?username=gerlaneDev&rank_icon=github&include_all_commits=true&count_private=true&show_icons=true&theme=nightowl&hide=prs)
+![Gerlâne's GitHub stats](https://stats-sooty-two.vercel.app/api?username=gerlaneDev&rank_icon=github&include_all_commits=true&show_icons=true&theme=nightowl&hide=prs)
 [![Top Langs](https://stats-git-main-gerlanedev.vercel.app/api/top-langs/?username=gerlaneDev&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gerlaneln/)
